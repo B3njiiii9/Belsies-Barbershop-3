@@ -1,2 +1,2 @@
-# Belsies-Barbershop-3
-My first website
+# belsies-barbershop
+belsies-barbershop
